@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Josue Garcia
 - 👀 I’m interested in Javascrip and Python programing
 - 🌱 I’m currently learning Javascript, HTML and CSS
-- 💞️ I’m looking to collaborate on Javascrip, HTML CSS and Python and Django
+- 💞️ I’m looking to collaborate on Javascrip, HTML, CSS, Python, Django, React and ASP.net Core
 - 📫 You can reach me at yoshuah809@gmail.com
 
 <!---
